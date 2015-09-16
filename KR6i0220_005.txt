@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:13.360616
+#+DATE: 2015-08-30 20:13:15.929375
 #+TITLE: 勝思惟梵天所問經
 #+PROPERTY: CBETA_ID T15n0587
 #+PROPERTY: ID KR6i0220
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 587
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0220_T_000-0062a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0220_T_005-0084b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《勝思惟梵天所問經》卷第五¶
+《勝思惟梵天所問經》卷第五¶
 ¶
 元魏天竺三藏菩提流支譯¶
 
@@ -217,7 +216,7 @@
 　亦無有菩提，¶
 　正行第一義，
 　是名住菩提，¶
-　菩薩黠慧人，
+　菩薩[烈-列+(里*吉)]慧人，
 　如是解菩提。¶
 　愚於陰界入，
 　而欲求菩提，¶

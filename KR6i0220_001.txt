@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:13.223627
+#+DATE: 2015-08-30 20:13:15.798757
 #+TITLE: 勝思惟梵天所問經
 #+PROPERTY: CBETA_ID T15n0587
 #+PROPERTY: ID KR6i0220
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 587
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0220_T_000-0062a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0220_T_001-0062a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.587[Nos.585,586]¶
-
- 《勝思惟梵天所問經》卷第一¶
+No. 587 [Nos. 585, 586]¶
+《勝思惟梵天所問經》卷第一¶
 ¶
 元魏天竺三藏菩提流支譯¶
 
@@ -500,8 +499,7 @@ No.587[Nos.585,586]¶
 「梵天！諸菩薩摩訶薩畢竟成¶
 就四法，不由他教而能自行六波羅蜜。何等¶
 為四？一者、以施導人故；二者、不說他人毀禁¶
-之罪故；三者、善知攝法教化眾生故；四者、達¶
-解深法故；是為四法。
+之罪故；三者、善知攝法教化眾生故；四者、達解深法故；是為四法。
 
 「梵天！諸菩薩摩訶薩畢¶
 竟成就四法，能轉捨禪定還生欲界。何等為¶
