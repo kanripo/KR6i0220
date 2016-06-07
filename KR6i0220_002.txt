@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:13.262472
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:57
 #+TITLE: 勝思惟梵天所問經
 #+PROPERTY: CBETA_ID T15n0587
 #+PROPERTY: ID KR6i0220
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 587
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0220_T_000-0062a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0220_T_002-0068a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《勝思惟梵天所問經》卷第二¶
+《勝思惟梵天所問經》卷第二¶
 ¶
 元魏天竺三藏菩提流支譯¶
 
@@ -167,9 +166,9 @@
 　若有深知見，
 　如是世間性，¶
 　則能降眾魔，
-　疾得無上道。」
+　疾得無上道。」」
 #+END_VERSE
-」¶
+¶
 
 如來復告聖勝思惟大梵天言：「梵天！如來¶
 出過世間而說世間、世間集、世間滅、世¶

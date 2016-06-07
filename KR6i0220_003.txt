@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:13.299853
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:57
 #+TITLE: 勝思惟梵天所問經
 #+PROPERTY: CBETA_ID T15n0587
 #+PROPERTY: ID KR6i0220
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 587
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0220_T_000-0062a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0220_T_003-0073c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《勝思惟梵天所問經》卷第三¶
+《勝思惟梵天所問經》卷第三¶
 ¶
 元魏天竺三藏菩提流支譯¶
 
@@ -754,8 +753,7 @@
 
 佛言：「梵天！若眼不¶
 見色，乃至意不知法，梵天！若如是觀察內¶
-外六入，是名滿足薩婆若。梵天！如是滿¶
-足薩婆若，所謂不著眼，乃至不著意，以是義¶
+外六入，是名滿足薩婆若。梵天！如是滿足薩婆若，所謂不著眼，乃至不著意，以是義¶
 故，名為如來無障無閡薩婆若智。
 
 「梵天！薩¶

@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:13.329908
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:57
 #+TITLE: 勝思惟梵天所問經
 #+PROPERTY: CBETA_ID T15n0587
 #+PROPERTY: ID KR6i0220
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 587
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0220_T_000-0062a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0220_T_004-0079a> ¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《勝思惟梵天所問經》卷第四¶
+《勝思惟梵天所問經》卷第四¶
 ¶
 元魏天竺三藏菩提流支譯¶
 
