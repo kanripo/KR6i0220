@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 587
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0220_T_000-0062a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0220_T_005-0084b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
@@ -216,7 +216,7 @@
 　亦無有菩提，¶
 　正行第一義，
 　是名住菩提，¶
-　菩薩黠慧人，
+　菩薩[烈-列+(里*吉)]慧人，
 　如是解菩提。¶
 　愚於陰界入，
 　而欲求菩提，¶
